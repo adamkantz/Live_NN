@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 70.0, 128.0, 1350.0, 946.0 ],
+		"rect" : [ 70.0, 100.0, 1350.0, 974.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -6763,7 +6763,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 0.0, 26.0, 1350.0, 920.0 ],
+						"rect" : [ 0.0, 26.0, 1350.0, 948.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -6792,7 +6792,6 @@
 						"subpatcher_template" : "",
 						"showontab" : 1,
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-6",
@@ -26141,7 +26140,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 0.0, 26.0, 1624.0, 920.0 ],
+										"rect" : [ 49.0, 187.0, 1540.0, 814.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -26462,7 +26461,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 0.0, 26.0, 1624.0, 920.0 ],
+										"rect" : [ 49.0, 187.0, 1540.0, 814.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -26615,7 +26614,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 0.0, 26.0, 1624.0, 920.0 ],
+										"rect" : [ 49.0, 159.0, 1540.0, 842.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -26798,7 +26797,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 70.0, 154.0, 1624.0, 920.0 ],
+										"rect" : [ 41.0, 133.0, 1648.0, 941.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -28472,7 +28471,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-2",
@@ -35420,7 +35418,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 172.0, 22.0, 330.694661796092987, 19.0 ],
 					"prototypename" : "M4L.patcher-summary",
-					"text" : "Cybernetic Improvisation Enviroment w/",
+					"text" : "Cybernetic Improvisation Enviroment",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -35430,13 +35428,12 @@
 					"fontname" : "Arial Italic",
 					"fontsize" : 11.0,
 					"id" : "obj-23",
-					"linecount" : 3,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 9.0, 46.761904835700989, 610.0, 44.0 ],
+					"patching_rect" : [ 9.0, 46.761904835700989, 610.0, 19.0 ],
 					"prototypename" : "M4L.patcher-story",
-					"text" : "\n\nSpecial thank you to Sam Pluta and the entire FluCoMa research team.",
+					"text" : "Special thank you to Sam Pluta, Rodrigo Constanzo, and the entire FluCoMa team.",
 					"textcolor" : [ 0.996814966201782, 0.996971607208252, 0.996757984161377, 1.0 ]
 				}
 
