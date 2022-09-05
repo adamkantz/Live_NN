@@ -8,3 +8,5 @@ Dependencies:
     ml-lib Machine Learning Library for Max and Pure Data - https://github.com/irllabs/ml-lib
     Max for Live - https://www.ableton.com/en/shop/#max-for-live
     confetti - Rodrigo Constanzo - https://rodrigoconstanzo.com/confetti/ 
+
+UPDATE!!! - As of the 1.0 release of the FluCoMa Toolkit this patch will no longer work... I will publish an updated version soon! :) 
